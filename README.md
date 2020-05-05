@@ -2,10 +2,10 @@
 
 ## How to run
 ```bash
-python3 markov.py   
+python markov.py   
 ```  
 The default folder path is './activity'.    
 Or you can specify you own path    
 ```bash 
-python3 markov.py your\_path\_to\_activity\_folder
+python markov.py your\_path\_to\_activity\_folder
 ```
